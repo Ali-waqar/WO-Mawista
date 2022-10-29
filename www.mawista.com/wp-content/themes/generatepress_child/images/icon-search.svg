@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="22" viewBox="0 0 23 22">
+  <defs>
+    <clipPath id="clip-Zeichenfläche_1">
+      <rect width="23" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="Zeichenfläche_1" data-name="Zeichenfläche – 1" clip-path="url(#clip-Zeichenfläche_1)">
+    <g id="Gruppe_77" data-name="Gruppe 77" transform="translate(0.8 20.541) rotate(-90)">
+      <path id="Ellipse_1" data-name="Ellipse 1" d="M8.75,2A6.931,6.931,0,0,0,2,9.085,6.931,6.931,0,0,0,8.75,16.17,6.931,6.931,0,0,0,15.5,9.085,6.931,6.931,0,0,0,8.75,2m0-2A8.922,8.922,0,0,1,17.5,9.085,8.922,8.922,0,0,1,8.75,18.17,8.922,8.922,0,0,1,0,9.085,8.922,8.922,0,0,1,8.75,0Z" transform="translate(2.141)" fill="#191919"/>
+      <path id="Linie_1" data-name="Linie 1" d="M0,5.282a1,1,0,0,1-.707-.293,1,1,0,0,1,0-1.414L3.575-.707a1,1,0,0,1,1.414,0,1,1,0,0,1,0,1.414L.707,4.989A1,1,0,0,1,0,5.282Z" transform="translate(0 16.029)" fill="#191919"/>
+    </g>
+  </g>
+</svg>

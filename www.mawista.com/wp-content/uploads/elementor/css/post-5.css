@@ -1,0 +1,102 @@
+.elementor-5 .elementor-element.elementor-element-6b1c17e3:not(.elementor-motion-effects-element-type-background),
+.elementor-5 .elementor-element.elementor-element-6b1c17e3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF00;
+}
+
+.elementor-5 .elementor-element.elementor-element-6b1c17e3 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-5 .elementor-element.elementor-element-6b1c17e3>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-5 .elementor-element.elementor-element-57b23106 {
+    text-align: left;
+}
+
+.elementor-5 .elementor-element.elementor-element-57b23106 img {
+    width: 76%;
+}
+
+.elementor-5 .elementor-element.elementor-element-57b23106>.elementor-widget-container {
+    margin: 0px 0px 0px 55px;
+}
+
+.elementor-bc-flex-widget .elementor-5 .elementor-element.elementor-element-8bf381e.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+
+.elementor-5 .elementor-element.elementor-element-8bf381e.elementor-column.elementor-element[data-element_type="column"]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-5 .elementor-element.elementor-element-a8d1cf7.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    justify-content: flex-end;
+}
+
+.elementor-5 .elementor-element.elementor-element-1eca7be {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d .elementor-search-form {
+    text-align: center;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d .elementor-search-form__toggle {
+    --e-search-form-toggle-size: 33px;
+    --e-search-form-toggle-background-color: #02010100;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d input[type="search"].elementor-search-form__input {
+    font-family: "Roboto Regular 400", Sans-serif;
+    font-size: 17px;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d .elementor-search-form__input,
+.elementor-5 .elementor-element.elementor-element-d023b1d .elementor-search-form__icon,
+.elementor-5 .elementor-element.elementor-element-d023b1d .elementor-lightbox .dialog-lightbox-close-button,
+.elementor-5 .elementor-element.elementor-element-d023b1d .elementor-lightbox .dialog-lightbox-close-button:hover,
+.elementor-5 .elementor-element.elementor-element-d023b1d.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input {
+    color: #FFFFFF;
+    fill: #FFFFFF;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d:not(.elementor-search-form--skin-full_screen) .elementor-search-form__container {
+    border-color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input {
+    border-color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.elementor-5 .elementor-element.elementor-element-d023b1d {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-5 .elementor-element.elementor-element-92eda3c .elementor-menu-toggle {
+    margin-left: auto;
+    background-color: #FFFFFF00;
+}
+
+.elementor-5 .elementor-element.elementor-element-92eda3c {
+    width: auto;
+    max-width: auto;
+}
+
+@media(min-width:768px) {
+    .elementor-5 .elementor-element.elementor-element-3585ff75 {
+        width: 16%;
+    }
+    .elementor-5 .elementor-element.elementor-element-8bf381e {
+        width: 67.332%;
+    }
+    .elementor-5 .elementor-element.elementor-element-a8d1cf7 {
+        width: 16%;
+    }
+}

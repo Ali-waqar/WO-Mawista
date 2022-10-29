@@ -1,0 +1,42 @@
+.elementor-52809 .elementor-element.elementor-element-112750b:not(.elementor-motion-effects-element-type-background),
+.elementor-52809 .elementor-element.elementor-element-112750b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F2F4F8;
+}
+
+.elementor-52809 .elementor-element.elementor-element-112750b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 3% 0% 3% 0%;
+}
+
+.elementor-52809 .elementor-element.elementor-element-112750b>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-52809 .elementor-element.elementor-element-c7bb602 {
+    text-align: left;
+}
+
+.elementor-52809 .elementor-element.elementor-element-70684e4:not(.elementor-motion-effects-element-type-background),
+.elementor-52809 .elementor-element.elementor-element-70684e4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F2F4F8;
+}
+
+.elementor-52809 .elementor-element.elementor-element-70684e4 {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #D5D9E9;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 15px 0px 15px 0px;
+}
+
+.elementor-52809 .elementor-element.elementor-element-70684e4>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+/* Start custom CSS for image, class: .elementor-element-c7bb602 */
+
+.footer-logo {
+    display: none;
+}
+
+/* End custom CSS */

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="22" viewBox="0 0 27 22">
+  <defs>
+    <clipPath id="clip-Zeichenfläche_2">
+      <rect width="27" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="Zeichenfläche_2" data-name="Zeichenfläche – 2" clip-path="url(#clip-Zeichenfläche_2)">
+    <path id="Icon_open-menu" data-name="Icon open-menu" d="M0,0V1.922H25.03V0ZM0,8.677V10.6H25.03V8.677Zm11,8.765v1.922H25.03V17.442Z" transform="translate(1 1.318)" fill="#191919"/>
+  </g>
+</svg>
